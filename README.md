@@ -8,7 +8,7 @@ The template is based on [sb2nov/resume](https://github.com/sb2nov/resume) ([MIT
 
 The latest compiled PDF is always available here:
 
-**[Download Gabriel_Lando.pdf](https://github.com/gabriel-lando/resume/releases/latest/download/Gabriel_Lando.pdf)**
+**[Download Gabriel_Lando.pdf](https://gabriel-lando.github.io/resume/Gabriel_Lando.pdf)**
 
 ## About
 
