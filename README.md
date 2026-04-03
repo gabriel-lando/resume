@@ -26,6 +26,12 @@ The project is designed to be compiled on [Overleaf](https://www.overleaf.com). 
 pdflatex main.tex
 ```
 
+If you prefer not to install LaTeX locally, you can build the PDF with Docker:
+
+```bash
+docker run --rm -v "$(pwd):/data" -w /data texlive/texlive pdflatex main.tex
+```
+
 ## License
 
 The LaTeX template is licensed under the [MIT License](./LICENSE).
